@@ -9,6 +9,7 @@
     <class>co.rivaldy.model.DiscountCode</class>
     <class>co.rivaldy.model.Customer</class>
     <class>co.rivaldy.model.Manufacturer</class>
+    <class>co.rivaldy.model.User</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/sample"/>
